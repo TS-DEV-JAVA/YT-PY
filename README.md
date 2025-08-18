@@ -3,21 +3,21 @@
   <img src="https://files.catbox.moe/35iyan.png" alt="logo/banner">
 </p>
 
-<p align="center">
+<div style="text-align: center;">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/TS-DEV-JAVA/YT-PY?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/TS-DEV-JAVA/YT-PY?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/TS-DEV-JAVA/YT-PY?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/TS-DEV-JAVA/YT-PY?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/TS-DEV-JAVA/YT-PY?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/TS-DEV-JAVA/YT-PY?style=for-the-badge)
-![Last commit](https://img.shields.io/github/last-commit/TS-DEV-JAVA/YT-PY?style=for-the-badge)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-![Coverage](https://img.shields.io/badge/coverage-95%25-green?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
-![Issues](https://img.shields.io/badge/issues-encouraged-yellow?style=for-the-badge)
+  <img src="https://img.shields.io/github/repo-size/TS-DEV-JAVA/YT-PY?style=for-the-badge" alt="GitHub repo size" />
+  <img src="https://img.shields.io/github/contributors/TS-DEV-JAVA/YT-PY?style=for-the-badge" alt="GitHub contributors" />
+  <img src="https://img.shields.io/github/stars/TS-DEV-JAVA/YT-PY?style=for-the-badge" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/TS-DEV-JAVA/YT-PY?style=for-the-badge" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/issues/TS-DEV-JAVA/YT-PY?style=for-the-badge" alt="GitHub issues" />
+  <img src="https://img.shields.io/github/license/TS-DEV-JAVA/YT-PY?style=for-the-badge" alt="GitHub license" />
+  <img src="https://img.shields.io/github/last-commit/TS-DEV-JAVA/YT-PY?style=for-the-badge" alt="Last commit" />
+  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" alt="Build Status" />
+  <img src="https://img.shields.io/badge/coverage-95%25-green?style=for-the-badge" alt="Coverage" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/issues-encouraged-yellow?style=for-the-badge" alt="Issues" />
 
-</p>
+</div>
 
 ---
 
