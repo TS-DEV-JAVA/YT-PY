@@ -3,17 +3,21 @@
   <img src="https://files.catbox.moe/35iyan.png" alt="logo/banner">
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/username/repo?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/username/repo?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/username/repo?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/username/repo?style=for-the-badge)
-![Last commit](https://img.shields.io/github/last-commit/username/repo?style=for-the-badge)
+<p align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/TS-DEV-JAVA/YT-PY?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/TS-DEV-JAVA/YT-PY?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/TS-DEV-JAVA/YT-PY?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/TS-DEV-JAVA/YT-PY?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/TS-DEV-JAVA/YT-PY?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/TS-DEV-JAVA/YT-PY?style=for-the-badge)
+![Last commit](https://img.shields.io/github/last-commit/TS-DEV-JAVA/YT-PY?style=for-the-badge)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ![Coverage](https://img.shields.io/badge/coverage-95%25-green?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/issues-encouraged-yellow?style=for-the-badge)
+
+</p>
 
 ---
 
